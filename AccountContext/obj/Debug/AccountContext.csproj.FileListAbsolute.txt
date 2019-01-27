@@ -1,0 +1,70 @@
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\bin\Debug\AccountContext.dll.config
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\bin\Debug\AccountContext.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\bin\Debug\AccountContext.pdb
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\bin\Debug\EntityFramework.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\bin\Debug\EntityFramework.xml
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UsersTableColumnSetup.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateUsersTableColumnDefinition.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserPicturesTableDefinition.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserPostTableDefinition.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateUserPostTableDefinition.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddDateColumnsToUserPostsAndUserPicturesTables.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserPostCommentsTableDefinition.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.csproj.GenerateResource.cache
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.csproj.CoreCompileInputs.cache
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.csproj.CopyComplete
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.pdb
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.csprojResolveAssemblyReference.cache
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddMessageThreadsTableDefinition.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserMessagesTableDefinition.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.FixAfterUserMessageTableDefinitionAddition.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.CreateSendUserMessageStoreProcedure.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateForeignKeysForUserMessagesMessageThreadsAndUsers.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateSendUserMessageStoreProcedureToReflectColumnNameChanges.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddScalarFunctionAndCheckConstraintMessageThreadsTable.resources
+C:\Users\Birkoff Himura\source\repos\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserCombinationUniqueConstraintToMessageThreadTable.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\bin\Debug\AccountContext.dll.config
+G:\SourceCode\DotNET\SMedia\AccountContext\bin\Debug\AccountContext.dll
+G:\SourceCode\DotNET\SMedia\AccountContext\bin\Debug\AccountContext.pdb
+G:\SourceCode\DotNET\SMedia\AccountContext\bin\Debug\EntityFramework.dll
+G:\SourceCode\DotNET\SMedia\AccountContext\bin\Debug\EntityFramework.SqlServer.dll
+G:\SourceCode\DotNET\SMedia\AccountContext\bin\Debug\EntityFramework.xml
+G:\SourceCode\DotNET\SMedia\AccountContext\bin\Debug\EntityFramework.SqlServer.xml
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.csprojAssemblyReference.cache
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UsersTableColumnSetup.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateUsersTableColumnDefinition.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserPicturesTableDefinition.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserPostTableDefinition.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateUserPostTableDefinition.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddDateColumnsToUserPostsAndUserPicturesTables.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserPostCommentsTableDefinition.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddMessageThreadsTableDefinition.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserMessagesTableDefinition.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.FixAfterUserMessageTableDefinitionAddition.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.CreateSendUserMessageStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateForeignKeysForUserMessagesMessageThreadsAndUsers.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateSendUserMessageStoreProcedureToReflectColumnNameChanges.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddScalarFunctionAndCheckConstraintMessageThreadsTable.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddUserCombinationUniqueConstraintToMessageThreadTable.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.csproj.GenerateResource.cache
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.csproj.CoreCompileInputs.cache
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.csproj.CopyComplete
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.dll
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.pdb
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.CreateGetUserByUserNameStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateUsersTableAddUnigueIndex.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddCreatePostStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.FixSmallColumnSizesOnSeveralTables.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddGetUserPostCommentByPostIDStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddCreateUserPostCommentStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddCreateUserPictureStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddGetUserPicturesByUserIDStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.ALTERCreateUserPostCommentStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.ALTERCreateUserPictureStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddGetUserPostsByUserIDStoreProcedure.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.AddOriginalFileNameColumnToUserPicturesTable.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateGetUserPicturesByUserIDStoreProcedureToIncludeOriginalFileName.resources
+G:\SourceCode\DotNET\SMedia\AccountContext\obj\Debug\AccountContext.Migrations.UpdateCreateUserPictureStoreProcedureToIncludeOriginalFileName.resources

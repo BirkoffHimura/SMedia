@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "UserPictureList";
+}
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="/Scripts/angular.min.js"></script>
+<script>
+    var app = angular.module('UserImagesApp', []).directive('ngFiles', ['$parse', function ($parse) {
+        function fn_link(scope, element, attrs) {
+            var onChange = $parse(attrs.ngFiles);
+            element.on('change', function (event) {
+                onChange(scope, { $files: event.target.files });
+            });
+        };
+        return {
+            link: fn_link
+        }
+    }]);
+
+    app.controller('PicturesController', function ($scope, $http) {
+        $http.get('/UserPicture/GetUserPictureListing').then(function (response) {
+            $scope.ImageListing = response.data;
+        });
+
+        $scope.GetUserPictureListing = function () {
+            $http({ method: 'Post', url: '/UserPicture/GetUserPictureListing/', params: { Id: -1 } }).then(function (response) {
+                $scope.ImageListing = response.data;
+            });
+        }
+
+        var formdata = new FormData();
+        $scope.getTheFiles = function ($files) {
+            angular.forEach($files, function (value, key) {
+                formdata.append(key, value);
+            });
+        };
+
+
+        $scope.UploadImages = function () {
+            var request = {
+                method: 'POST',
+                url: '/UserPicture/UploadUserPicture/',
+                data: formdata,
+                headers: {
+                    'Content-Type': undefined
+                },
+                params: {  }
+            };
+
+            $http(request).then(function (response) {
+
+                $scope.ImageListing = response.data;
+            });
+        }
+    });
+
+</script>
+<div ng-app="UserImagesApp" ng-controller="PicturesController" class="container">
+    <div class="card my-4 rounded">
+        <h5 class="card-header">Upload Images:</h5>
+        <div class="card-body">
+            <form>                
+                <div class="form-group">
+                    <label for="Image" class="col-md-2 control-label">Images</label>
+                    <div class="col-md-10">
+                        <input class="form-control" id="imgUpload" ng-files="getTheFiles($files)" type="file" multiple />
+                    </div>
+                </div>
+
+                <button type="button" id="btnUpload" ng-click="UploadImages()" class="btn btn-primary">Upload</button>
+            </form>
+        </div>
+    </div>
+    <div ng-init="GetUserPictureListing()">
+        <div>
+            <img ng-repeat="k in ImageListing" src="data:image/png;base64,{{k.Base64ImageString}}" class="img-thumbnail img-responsive col-md-4" id="img{{k.PictureID}}" width="304" height="236"> 
+        </div>
+    </div>
+</div>

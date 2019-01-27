@@ -1,0 +1,15 @@
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\DAL.dll.config
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\DAL.dll
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\DAL.pdb
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\AccountContext.dll
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\EntityFramework.dll
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\AccountContext.pdb
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\AccountContext.dll.config
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\EntityFramework.xml
+G:\SourceCode\DotNET\SMedia\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\SourceCode\DotNET\SMedia\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\SourceCode\DotNET\SMedia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\SourceCode\DotNET\SMedia\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\SourceCode\DotNET\SMedia\DAL\obj\Debug\DAL.dll
+G:\SourceCode\DotNET\SMedia\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,60 @@
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\SMediaTest.dll.config
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\SMediaTest.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\SMediaTest.pdb
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\AccountContext.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\EntityFramework.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\AccountContext.pdb
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\AccountContext.dll.config
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\EntityFramework.xml
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\obj\Debug\SMediaTest.csprojResolveAssemblyReference.cache
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\obj\Debug\SMediaTest.csproj.CoreCompileInputs.cache
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\obj\Debug\SMediaTest.csproj.CopyComplete
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\obj\Debug\SMediaTest.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\obj\Debug\SMediaTest.pdb
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\WebDriver.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\WebDriver.xml
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\TestServerRunner.dll
+C:\Users\Birkoff Himura\source\repos\SMedia\SMediaTest\bin\Debug\TestServerRunner.pdb
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\SMediaTest.dll.config
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\SMediaTest.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\SMediaTest.pdb
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\AccountContext.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\EntityFramework.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\EntityFramework.SqlServer.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\TestServerRunner.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\WebDriver.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\AccountContext.pdb
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\AccountContext.dll.config
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\EntityFramework.xml
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\EntityFramework.SqlServer.xml
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\TestServerRunner.pdb
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\WebDriver.xml
+G:\SourceCode\DotNET\SMedia\SMediaTest\obj\Debug\SMediaTest.csprojAssemblyReference.cache
+G:\SourceCode\DotNET\SMedia\SMediaTest\obj\Debug\SMediaTest.csproj.CoreCompileInputs.cache
+G:\SourceCode\DotNET\SMedia\SMediaTest\obj\Debug\SMediaTest.csproj.CopyComplete
+G:\SourceCode\DotNET\SMedia\SMediaTest\obj\Debug\SMediaTest.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\obj\Debug\SMediaTest.pdb
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\BLL.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\BLL.pdb
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\DAL.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\BLL.dll.config
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\DAL.pdb
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\DAL.dll.config
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\WebDriver.Support.dll
+G:\SourceCode\DotNET\SMedia\SMediaTest\bin\Debug\WebDriver.Support.xml

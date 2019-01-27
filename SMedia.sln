@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountContext", "AccountContext\AccountContext.csproj", "{2A727155-3B0F-4065-B964-B9C034540A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMediaTest", "SMediaTest\SMediaTest.csproj", "{B1DE710B-C639-4A8F-B843-FD5B8AAD54BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMedia", "SMedia\SMedia.csproj", "{84B21986-8481-47A7-8202-CA5196243533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{73D956C3-CBE9-4BC6-8A80-A2A4CA8DBFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5D72B440-0001-4837-A578-DC08025728F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A727155-3B0F-4065-B964-B9C034540A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A727155-3B0F-4065-B964-B9C034540A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A727155-3B0F-4065-B964-B9C034540A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A727155-3B0F-4065-B964-B9C034540A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DE710B-C639-4A8F-B843-FD5B8AAD54BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DE710B-C639-4A8F-B843-FD5B8AAD54BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DE710B-C639-4A8F-B843-FD5B8AAD54BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DE710B-C639-4A8F-B843-FD5B8AAD54BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B21986-8481-47A7-8202-CA5196243533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B21986-8481-47A7-8202-CA5196243533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B21986-8481-47A7-8202-CA5196243533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B21986-8481-47A7-8202-CA5196243533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D956C3-CBE9-4BC6-8A80-A2A4CA8DBFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D956C3-CBE9-4BC6-8A80-A2A4CA8DBFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D956C3-CBE9-4BC6-8A80-A2A4CA8DBFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D956C3-CBE9-4BC6-8A80-A2A4CA8DBFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D72B440-0001-4837-A578-DC08025728F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D72B440-0001-4837-A578-DC08025728F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D72B440-0001-4837-A578-DC08025728F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D72B440-0001-4837-A578-DC08025728F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1916CD0-4766-45F5-A65F-0B08D2465EF9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://birkoffhimura.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AccountContext\\AccountContext.csproj
+		SccProjectName1 = AccountContext
+		SccLocalPath1 = AccountContext
+		SccProjectUniqueName2 = SMediaTest\\SMediaTest.csproj
+		SccProjectName2 = SMediaTest
+		SccLocalPath2 = SMediaTest
+		SccProjectUniqueName3 = SMedia\\SMedia.csproj
+		SccProjectName3 = SMedia
+		SccLocalPath3 = SMedia
+		SccProjectUniqueName4 = BLL\\BLL.csproj
+		SccProjectName4 = BLL
+		SccLocalPath4 = BLL
+		SccProjectUniqueName5 = DAL\\DAL.csproj
+		SccProjectName5 = DAL
+		SccLocalPath5 = DAL
+	EndGlobalSection
+EndGlobal
